@@ -7,6 +7,7 @@ Take a look at their `.gitpod.yml` file and try them in Gitpod with a single cli
 | Language | Project | Try it |
 | --- | :--- | --- |
 | TypeScript | [Theia](https://github.com/eclipse-theia/theia), a cloud & desktop IDE framework implemented in TypeScript | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/eclipse-theia/theia) |
+| JavaScript | [SvelteJS template](https://github.com/gitpod-io/sveltejs-template), a project template for [Svelte](https://svelte.dev/) apps | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/sveltejs-template) |
 | Go | [Prometheus](https://github.com/prometheus/prometheus), a monitoring system and time series database | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/prometheus/prometheus) |
 | Rust | [Nushell](https://github.com/nushell/nushell), a terminal emulator written in Rust | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nushell/nushell) |
 | Java | [Spring PetClinic](https://github.com/gitpod-io/spring-petclinic), a sample web application in Spring in Java | [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/spring-petclinic) |
